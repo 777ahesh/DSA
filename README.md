@@ -17,3 +17,8 @@
 ## Restarted With the Streak
 
 ####  1) Mising Numbers in an Array
+
+
+## Leetcode Problems
+
+#### 1) Palindrome Number.
